@@ -1,6 +1,7 @@
 # Hi there! I'm LuvYF0328 🌷
 
 🎓 Computer Science Master's student
+
 📍 Currently studying in Malaysia
 
 I enjoy learning new technologies and exploring how **data, algorithms, and machine learning** can help solve real-world problems.
