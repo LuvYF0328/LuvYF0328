@@ -1,4 +1,6 @@
-# Hi there! I'm LuvYF0328 🌷
+# Hi there! I'm LuoYifan 🌷
+
+### You can also call me **Nikita** ✨
 
 🎓 Computer Science Master's student
 
